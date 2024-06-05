@@ -1,25 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b> M.Sc. <b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='https://geo.uni-greifswald.de/en/eo'>Earth Observation and Geoinformation Science Lab</a></p>
+    <p>Institute of Geography and Geology</p>
+    <p>University of Greifswald</p> 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<br/>
+**Geospatial Analyst** with 3+ years of experience working with 💻 GIS, remote sensing, geo data, and 3D point cloud. Familiar with 🤖 photogrammetry, statistics, machine learning, programming, and visualization
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Examples of my works:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+✅ Implemented 𝗿𝗮𝗻𝗱𝗼𝗺 𝗳𝗼𝗿𝗲𝘀𝘁 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in Central Asia
+
+✅ Implemented AMS3D algorithm with 𝗔𝗟𝗦 𝗔𝗶𝗿𝗯𝗼𝗿𝗻𝗲 𝗟𝗮𝘀𝗲𝗿 𝗦𝗰𝗮𝗻𝗻𝗶𝗻𝗴 data detecting 78% of trees in North Rhine-Westphalia, 0.86 R-squared of tree height estimates, and 0.74 R-squared of DBH estimates
+
+✅ Developed **spectral library** from EnMap satellite data for land cover research in Germnay
+
+I graduated 🎓 MSc. Forest Information Technology with ⚡ **maximum GPA**. Native in Vietnamese, fluent in English, and currently learning German.
+
+🙋 Highly motivated, disciplined, effective in independent work or collaboration, and eager to get more experience and skillset.
+
+🛜 Do you relate to my background, or want to know more about my expertise? Hit me up on [LinkedIn](www.linkedin.com/in/vietdn) for job offers, collabs, or just to geek out over our shared interests!
