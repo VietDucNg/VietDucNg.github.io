@@ -2,7 +2,7 @@
 layout: page
 title: DSM from point cloud
 description: Tutorial for creating Digital Surface Model from LiDAR data in R
-img: assets/img/project_dsmFromPointCloud_overview.png
+img: assets/img/proj_dsmFromPointCloud_overview.png
 importance: 2
 category: work
 related_publications: False

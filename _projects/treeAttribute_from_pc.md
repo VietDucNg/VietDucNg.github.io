@@ -2,7 +2,7 @@
 layout: page
 title: Tree attribute from point cloud
 description: Estimating individual tree attributes (tree height, DBH, and crown area) based on LiDAR data using R
-img: assets/img/project_treeAttributeFromLidar_overview.png
+img: assets/img/proj_treeAttributeFromLidar_overview.png
 importance: 1
 category: work
 giscus_comments: true
