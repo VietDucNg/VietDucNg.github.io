@@ -2,8 +2,9 @@ github_users:
   - VietDucNg
 
 github_repos:
-  - VietDucNg/VietDucNg.github.io
-  - VietDucNg/Metashape-photogrammetry
-  - VietDucNg/DSM_from_pointCloud
   - VietDucNg/Mollergrab-potree
+  - VietDucNg/DSM_from_pointCloud
   - VietDucNg/LiDAR-individual-tree-attribute
+  - VietDucNg/classify-forestTiles-by-height
+  - VietDucNg/Metashape-photogrammetry
+  - VietDucNg/VietDucNg.github.io
