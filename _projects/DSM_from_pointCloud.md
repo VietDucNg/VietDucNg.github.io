@@ -6,7 +6,7 @@ img: assets/img/proj_dsmFromPointCloud_overview.png
 importance: 2
 category: work
 related_publications: False
-redirect: https://vietducng.github.io/DSM_from_pointCloud/
+redirect: https://vietducng.github.io/DSM-from-pointCloud/
 ---
 
 <iframe
