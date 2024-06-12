@@ -10,6 +10,6 @@ redirect: https://vietducng.github.io/DSM-from-pointCloud/
 ---
 
 <iframe
-  src="https://vietducng.github.io/DSM_from_pointCloud/"
+  src="https://vietducng.github.io/DSM-from-pointCloud/"
   style="width:100%; height:15500px;"
 ></iframe>
