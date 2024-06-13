@@ -9,9 +9,12 @@ related_publications: False
 redirect:
 ---
 
-![](/img/proj_overivew.png)
+![](/assets/img/proj_treeBiomassFromAllometry/proj_overivew.png)
 
-# treeBiomass-from-allometry
+<br/>
+
+# Python programm: estimating tree biomass using allometry
+
 A python program was developed, which integrated a comprehensive set of allometric equations for above-ground biomass calculating at a single tree level. 
 
 The empirical allometric equations using DBH and H as predictors. There are totally 10 equations were integrated into the program, these are most frequently used equations in previous studies. 
@@ -35,7 +38,7 @@ The equations were compiled from previous studies which research empirical equat
 # Method
 The main idea of the program is to use provided information of tree diameter (DBH), tree height (H), and tree biomass (AGB) apply into predefined equations to generate a set of equation parameters that best fit the data. From determined parameters, the biomass value will be predicted. The predicted biomass and the actual biomass then will be compared by visualization and accuracy assessment.
 
-![](/img/prog3_biomassProgram.png)
+![](/assets/img/proj_treeBiomassFromAllometry/prog3_biomassProgram.png)
 
 The main program is under a *while* loop which only will be executed in case the user input is **1** or **2**. The two options of input according to two options the program offers the users, which are processing the user’s data file or built-in data file, respectively. 
 
@@ -59,7 +62,7 @@ After defining data will be used, the next process so-called “descriptive stat
 
 Correlation                |  Relationship
 :-------------------------:|:-------------------------:
-![](/img/data_correlation.png)  |  ![](/img/data_relationship.png)
+![](/assets/img/proj_treeBiomassFromAllometry/data_correlation.png)  |  ![](/assets/img/proj_treeBiomassFromAllometry/data_relationship.png)
 
 ## Allometric equation
 Tree biomass will be estimated based on equations in previous studies, some of which consider exclusively diameter at breast height or tree height while others based on both parameters.
@@ -76,6 +79,11 @@ Tree biomass will be estimated based on equations in previous studies, some of w
 10. W = a×DBH^b×H^c
 
 Where: W- dry biomass, DBH - diameter at breast height, H - height, and a, b, c - model parameters.
+
+equation 3                |  equation 10
+:-------------------------:|:-------------------------:
+![](/assets/img/proj_treeBiomassFromAllometry/equation_3.png)  |  ![](/assets/img/proj_treeBiomassFromAllometry/equation_10.png)
+
 
 ## Accuracy 
 All models will be fit to data and the following goodness-of-fit measures will be provided for user’s assessment: coefficient of determination (R2), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root mean squared error (RMSE).
