@@ -33,4 +33,4 @@ I graduated 🎓 MSc. Forest Information Technology with ⚡ **maximum GPA**. Na
 
 🙋 Highly motivated, disciplined, effective in independent work or collaboration, and eager to get more experience and skillset.
 
-🛜 Do you relate to my background, or want to know more about my expertise? Hit me up on [LinkedIn](www.linkedin.com/in/vietdn) for job offers, collabs, or just to geek out over our shared interests!
+🛜 Do you relate to my background, or want to know more about my expertise? Hit me up on [LinkedIn](https://www.linkedin.com/in/vietdn/) for job offers, collabs, or just to geek out over our shared interests!
