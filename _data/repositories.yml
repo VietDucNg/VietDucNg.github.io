@@ -3,8 +3,12 @@ github_users:
 
 github_repos:
   - VietDucNg/Mollergrab-potree
-  - VietDucNg/DSM_from_pointCloud
-  - VietDucNg/LiDAR-individual-tree-attribute
   - VietDucNg/classify-forestTiles-by-height
+  - VietDucNg/DSM_from_pointCloud
+  - VietDucNg/treeBiomass-from-allometry
+  - VietDucNg/biomass-from-TCH
+  - VietDucNg/LiDAR-individual-tree-attribute
   - VietDucNg/Metashape-photogrammetry
   - VietDucNg/VietDucNg.github.io
+  - VietDucNg/Thuenen_iternship
+  - VietDucNg/master_thesis
