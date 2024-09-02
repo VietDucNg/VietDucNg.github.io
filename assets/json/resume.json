@@ -6,7 +6,7 @@
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "+49 3834 420 4544",
     "url": "https://vietducng.github.io/",
-    "summary": "A geospatial analyst with 3+ years of experience working with GIS, remote sensing, geo data, and 3D point cloud. Familiar with photogrammetry, statistics, machine learning, programming, and visualization",
+    "summary": "A geospatial analyst with 3+ years of experience working with GIS, remote sensing, geo data, and 3D point cloud. Familiar with photogrammetry, statistics, machine learning, programming, visualization, and Webmaps",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -32,24 +32,27 @@
   "work": [
     {
       "name": "Institute of Geography and Geology, University of Greifswald",
-      "position": "Geoinformatician",
+      "location": "Greifswald, Germany",
+      "position": "GIS analyst",
       "url": "https://geo.uni-greifswald.de/en/eo",
       "startDate": "2023-11-01",
       "endDate": "Current",
       "summary": "",
-      "highlights": ["Collecting, processing, managing, and visualizing Geo-data","Spatial analysis with Python, R","Photogrammetry with Metashape","WebGIS applications"]
+      "highlights": ["Analyzed spatial data with Python (GeoPandas, GDAL, rasterio, multiprocessing, etc.), and R (sf, terra, lidR, rgdal, doParallel, etc.)", "Performed drone data acquisition (multispectral, RGB, LiDAR data)", "Processed drone data with Metashape", "Created Web maps using HTML, CSS, JavaScript (Leaflet)"]
     },
     {
       "name": "Centre for Econics and Ecosystem Management, Eberswalde University for Sustainable Development",
+      "location": "Eberswalde, Germany",
       "position": "Scientific Assistant in GIS and Remote Sensing",
       "url": "https://www.centreforeconics.org/",
-      "startDate": "2022-05-01",
+      "startDate": "2021-01-01",
       "endDate": "2023-08-31",
-      "summary": "Land-use land-cover classification, crop type mapping (https://www.transect.de/)",
-      "highlights": ["Researched classification methods using machine learning and time-series analysis","Collected and digitized on-screen training and validation data","Interpreted multi-temporal remote sensing metrics (e.g., NDVI, NRPB, VV, VH)","Implemented random forest algorithm using Landsat 8, Sentinel 1, and Sentinel 2 in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in central Asia","Created results of maps, figures, and tables using R and QGIS/ArcGIS and quality assurance"]
+      "summary": "Land-use land-cover classification, crop type mapping, LiDAR analysis (https://www.transect.de/), (https://virtualforests.eu/)",
+      "highlights": ["Implemented Random Forest algorithm with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine using Python. Achieved 91% overall accuracy of crop type classification in central Asia", "Collected and digitized on-screen training and validation data for landcover classification using QGIS", "Interpreted multi-temporal remote sensing metrics (e.g., NDVI, NRPB, VV, VH)", "Created scientific maps, figures, and tables using R and QGIS", "Analyzed statistics with R (dplyr, ggplot2, etc.)"]
     },
     {
       "name": "Naturwald Akademie",
+      "location": "Lübeck, Germany",
       "position": "Student Assistant in Terrestrial laser scanning",
       "url": "https://naturwald-akademie.org/en/about/",
       "startDate": "2022-03-01",
@@ -59,21 +62,13 @@
     },
     {
       "name": "Thünen Institute of Forest Ecosystems",
+      "location": "Eberswalde, Germany",
       "position": "Internship",
       "url": "https://www.thuenen.de/en/institutes/forest-ecosystems",
       "startDate": "2021-10-01",
       "endDate": "2023-05-31",
       "summary": "Forest inventory based on ALS point cloud on large-scale levels (https://winmol.thuenen.de/)",
-      "highlights": ["Investigated algorithms and packages for tree segmentations from LiDAR","Tested different parameter settings for each algorithm","Developed methods to derive individual tree attributes (coordinate, tree height (H), diameter at breast height (DBH), crown base height, crown area)","Evaluated results statistically. 78% tree detection rate in North Rhine-Westphalia using AMS3D algorithm, 0.86 R-squared of tree height estimates, and 0.74 R-squared of DBH estimates"]
-    },
-    {
-      "name": "Faculty of Forest and Environment, Eberswalde University for Sustainable Development",
-      "position": "Scientific Assistant in GIS and Remote Sensing ",
-      "url": "https://www.hnee.de/en/Faculties/Faculty-of-Forest-and-Environment/Faculty-of-Forest-and-Environment-E2176.htm",
-      "startDate": "2021-01-01",
-      "endDate": "2023-08-31",
-      "summary": "https://virtualforests.eu/",
-      "highlights": ["Created GIS maps with QGIS/ArcGIS","Analyzed statistics with R and Excel","Supported organizing workshops, and training","Website management with WordPress","Attended fieldwork for forest inventory"]
+      "highlights": ["Developed methods to derive individual tree attributes (coordinate, tree height, diameter at breast height, crown base height, crown area) using R (lidR, rLiDAR, TreeLS, etc.)", "Evaluated results statistically using R. 78% tree detection rate in North Rhine-Westphalia using AMS3D algorithm, 0.86 R2 of tree height estimates, and 0.74 R2 of DBH estimates"]
     }
   ],
 
@@ -94,7 +89,7 @@
 
   "education": [
     {
-      "institution": "Eberswalde University for Sustainable Development, Germany",
+      "institution": "Eberswalde University for Sustainable Development",
       "location": "Eberswalde, Germany",
       "url": "https://www.hnee.de/en",
       "area": "Forest Information Technology",
@@ -129,15 +124,22 @@
 
   "certificates": [
     {
+      "name": "Structure-from-Motion photogrammetry",
+      "date": "2024",
+      "issuer": "The University Centre in Svalbard",
+      "url": "https://unisvalbard.github.io/Geo-SfM/landing-page.html#",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "EnMAP data access and image preprocessing techniques",
-      "date": "2023",
+      "date": "2024",
       "issuer": "EO College",
       "url": "https://eo-college.org/courses/beyond-the-visible-enmap-data-access-and-image-preprocessing-techniques/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Introduction to Hyperspectral Remote Sensing",
-      "date": "2023",
+      "date": "2024",
       "issuer": "EO College",
       "url": "https://eo-college.org/courses/beyond-the-visible/",
       "icon": "fa-solid fa-clipboard-check"
@@ -247,6 +249,16 @@
         "Python",
         "R",
         "SQL"
+      ]
+    },
+    {
+      "name": "WebGIS",
+      "level": "Good",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript (Leaflet)"
       ]
     },
     {
