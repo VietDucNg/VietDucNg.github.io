@@ -6,7 +6,7 @@ img: assets/img/webviewer_webmap_precipitation.png
 importance: 3
 # category:
 giscus_comments: true
-redirect: https://vietducng.github.io/precipitation_webmap/
+redirect: https://vietducng.github.io/webmap_precipitation/
 ---
 
 Every project has a beautiful feature showcase page.
