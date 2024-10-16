@@ -3,7 +3,8 @@ github_users:
 
 github_repos:
   - VietDucNg/Mollergrab-potree
-  - VietDucNg/precipitation_webmap
+  - VietDucNg/webGIS_distanceCaculation
+  - VietDucNg/webmap_precipitation
   - VietDucNg/classify-forestTiles-by-height
   - VietDucNg/DSM_from_pointCloud
   - VietDucNg/treeBiomass-from-allometry

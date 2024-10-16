@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Real-time US precipitation and weather alert
-description: 'Real-time US precipitation and weather alert: data from National Weahter Service'
-img: assets/img/webviewer_webmap_precipitation.png
-importance: 3
+title: Geographic distance calculation
+description: 'WebGIS application to calculate the geographic distance between 2 points on the Earth surface'
+img: assets/img/webviewer_distanceCalculator.png
+importance: 2
 # category:
 giscus_comments: true
-redirect: https://vietducng.github.io/precipitation_webmap/
+redirect: https://vietducng.github.io/webGIS_distanceCaculation/
 ---
 
 Every project has a beautiful feature showcase page.
