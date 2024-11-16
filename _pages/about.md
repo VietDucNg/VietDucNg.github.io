@@ -19,9 +19,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-**Geospatial Analyst** with 3+ years of experience working with 💻 GIS, remote sensing, geo data, and 3D point cloud. Familiar with 🤖 photogrammetry, statistics, machine learning, programming, and visualization
+<b>Geospatial analyst</b> with 3+ years of experience working with 💻 GIS, cartography, remote sensing, and WebGIS. Familiar with 🤖 programming, photogrammetry, geo data, 3D point cloud, statistics, machine learning, and visualization
 
 Examples of my works:
+
+✅ Developed good-looking user-friendly WebGIS applications
 
 ✅ Implemented 𝗿𝗮𝗻𝗱𝗼𝗺 𝗳𝗼𝗿𝗲𝘀𝘁 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in Central Asia
 

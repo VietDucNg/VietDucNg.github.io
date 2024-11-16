@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Viet Nguyen",
-    "label": "Geospatial Analyst",
+    "label": "GIS Analyst",
     "image": "",
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "+49 3834 420 4544",
     "url": "https://vietducng.github.io/",
-    "summary": "A geospatial analyst with 3+ years of experience working with GIS, remote sensing, geo data, and 3D point cloud. Familiar with photogrammetry, statistics, machine learning, programming, visualization, and Webmaps",
+    "summary": "A geospatial analyst with 3+ years of experience working with GIS, cartography, remote sensing, and WebGIS. Familiar with programming, photogrammetry, geo data, 3D point cloud, statistics, machine learning, and visualization",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -36,9 +36,9 @@
       "position": "GIS analyst",
       "url": "https://geo.uni-greifswald.de/en/eo",
       "startDate": "2023-11-01",
-      "endDate": "Current",
+      "endDate": "present",
       "summary": "",
-      "highlights": ["Analyzed spatial data with Python (GeoPandas, GDAL, rasterio, multiprocessing, etc.), and R (sf, terra, lidR, rgdal, doParallel, etc.)", "Performed drone data acquisition (multispectral, RGB, LiDAR data)", "Processed drone data with Metashape", "Created Web maps using HTML, CSS, JavaScript (Leaflet)"]
+      "highlights": ["Analyzed spatial data with Python (GeoPandas, NumPy, GDAL, Rasterio, Multiprocessing, etc.), and R (sf, terra, lidR, rgdal, doParallel, etc.)", "Performed drone-based data acquisition (spectral, RGB, and LiDAR data)", "Processed drone-based data with Agisoft Metashape", "Developed WebGIS using HTML, CSS, JavaScript (Leaflet)"]
     },
     {
       "name": "Centre for Econics and Ecosystem Management, Eberswalde University for Sustainable Development",
@@ -48,7 +48,7 @@
       "startDate": "2021-01-01",
       "endDate": "2023-08-31",
       "summary": "Land-use land-cover classification, crop type mapping, LiDAR analysis (https://www.transect.de/), (https://virtualforests.eu/)",
-      "highlights": ["Implemented Random Forest algorithm with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine using Python. Achieved 91% overall accuracy of crop type classification in central Asia", "Collected and digitized on-screen training and validation data for landcover classification using QGIS", "Interpreted multi-temporal remote sensing metrics (e.g., NDVI, NRPB, VV, VH)", "Created scientific maps, figures, and tables using R and QGIS", "Analyzed statistics with R (dplyr, ggplot2, etc.)"]
+      "highlights": ["Implemented Random Forest algorithm using Python with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in central Asia", "Collected and digitized on-screen training and validation data for landcover classification using QGIS", "Interpreted multi-temporal remote sensing metrics (e.g., NDVI, NRPB, VV, VH)", "Produced maps, figures, and tables using R and QGIS", "Analyzed statistics with R (dplyr, ggplot2, etc.)"]
     },
     {
       "name": "Naturwald Akademie",
@@ -63,12 +63,12 @@
     {
       "name": "Thünen Institute of Forest Ecosystems",
       "location": "Eberswalde, Germany",
-      "position": "Internship",
+      "position": "Intern",
       "url": "https://www.thuenen.de/en/institutes/forest-ecosystems",
       "startDate": "2021-10-01",
       "endDate": "2023-05-31",
       "summary": "Forest inventory based on ALS point cloud on large-scale levels (https://winmol.thuenen.de/)",
-      "highlights": ["Developed methods to derive individual tree attributes (coordinate, tree height, diameter at breast height, crown base height, crown area) using R (lidR, rLiDAR, TreeLS, etc.)", "Evaluated results statistically using R. 78% tree detection rate in North Rhine-Westphalia using AMS3D algorithm, 0.86 R2 of tree height estimates, and 0.74 R2 of DBH estimates"]
+      "highlights": ["Developed methods to derive individual tree attributes (coordinate, tree height, diameter at breast height (DBH), crown base height, crown area) from ALS point clouds using R (lidR, rLiDAR, TreeLS, etc.), achieved 78% tree detection rate in North Rhine-Westphalia using AMS3D algorithm", "Evaluated statistical models for tree attributes using R, attained 0.86 R2 of tree height estimates, and 0.74 R2 of DBH estimates"]
     }
   ],
 
@@ -95,7 +95,7 @@
       "area": "Forest Information Technology",
       "studyType": "M.Sc",
       "startDate": "2020-10-01",
-      "endDate": "2023-05-30",
+      "endDate": "2023-06-30",
       "score": "1.0",
       "courses": ["GPA: 1.0 (German grade)"]
     },
@@ -247,8 +247,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "R",
-        "SQL"
+        "R"
       ]
     },
     {
@@ -266,6 +265,7 @@
       "level": "Good",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
+        "SQL",
         "PostgreSQL",
         "PostGIS"
       ]
