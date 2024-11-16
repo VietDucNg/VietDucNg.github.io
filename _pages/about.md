@@ -19,15 +19,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-<b>Geospatial analyst</b> with 3+ years of experience working with 💻 GIS, cartography, remote sensing, and WebGIS. Familiar with 🤖 programming, photogrammetry, geo data, 3D point cloud, statistics, machine learning, and visualization
+**GIS analyst** with 3+ years of experience working with 💻 GIS, cartography, remote sensing, and WebGIS. Familiar with 🤖 programming, photogrammetry, geo data, 3D point cloud, statistics, machine learning, and visualization
 
 Examples of my works:
 
-✅ Developed good-looking user-friendly WebGIS applications
+✅ Developed good-looking user-friendly **WebGIS** applications
 
-✅ Implemented 𝗿𝗮𝗻𝗱𝗼𝗺 𝗳𝗼𝗿𝗲𝘀𝘁 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in Central Asia
+✅ Implemented **random forest algorithm** with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in Central Asia
 
-✅ Implemented AMS3D algorithm with 𝗔𝗟𝗦 𝗔𝗶𝗿𝗯𝗼𝗿𝗻𝗲 𝗟𝗮𝘀𝗲𝗿 𝗦𝗰𝗮𝗻𝗻𝗶𝗻𝗴 data detecting 78% of trees in North Rhine-Westphalia, 0.86 R-squared of tree height estimates, and 0.74 R-squared of DBH estimates
+✅ Implemented AMS3D algorithm with **ALS Airborne Laser Scanning** data detecting 78% of trees in North Rhine-Westphalia, 0.86 R-squared of tree height estimates, and 0.74 R-squared of DBH estimates
 
 ✅ Developed **spectral library** from EnMap satellite data for land cover research in Germnay
 
