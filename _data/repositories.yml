@@ -9,6 +9,8 @@ github_repos:
   - VietDucNg/DSM_from_pointCloud
   - VietDucNg/treeBiomass-from-allometry
   - VietDucNg/biomass-from-TCH
+  - VietDucNg/landCover_trajectory
+  - VietDucNg/NeukalenMap_RF_clasification
   - VietDucNg/LiDAR-individual-tree-attribute
   - VietDucNg/burnSeverity_and_post-fireAssessment
   - VietDucNg/treeBiomass-from-AEs-BCEFs

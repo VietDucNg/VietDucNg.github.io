@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my hopefully-cool projects 😁
 nav: true
 nav_order: 3
-display_categories: [work, study]
+display_categories: [Python, R, Metashape]
 horizontal: false
 ---
 

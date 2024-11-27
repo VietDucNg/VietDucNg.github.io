@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Metashape photogrammetry
-description: Metashape step-by-step tutorial for creating point clouds, orthomosaic, DEM and meshed model from arial images
-img: assets/img/proj_metashape_overview.jpg
-redirect: https://github.com/VietDucNg/Metashape-photogrammetry
-importance: 3
-category: work
+title: Tree attribute from point cloud
+description: Estimating individual tree attributes (tree height, DBH, and crown area) based on LiDAR data using R
+img: assets/img/proj_treeAttributeFromLidar_overview.png
+importance: 7
+category: R
+giscus_comments: true
+redirect: https://github.com/VietDucNg/LiDAR-individual-tree-attribute
 ---
 
 Every project has a beautiful feature showcase page.

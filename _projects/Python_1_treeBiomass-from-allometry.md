@@ -3,8 +3,8 @@ layout: page
 title: 'Python programm: estimating tree biomass using allometry'
 description: A Python program for estimating above-ground biomass at a single tree level using allometric equations
 img: assets/img/proj_treeBiomassFromAllometry/proj_overivew.png
-importance: 3
-category: study
+importance: 1
+category: Python
 related_publications: False
 redirect:
 ---
