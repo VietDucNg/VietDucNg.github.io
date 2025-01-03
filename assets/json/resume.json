@@ -6,7 +6,7 @@
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "+49 3834 420 4544",
     "url": "https://vietducng.github.io/",
-    "summary": "A geospatial analyst with 3+ years of experience working with GIS, cartography, remote sensing, and WebGIS. Familiar with programming, photogrammetry, geo data, 3D point cloud, statistics, machine learning, and visualization",
+    "summary": "A geospatial analyst with 3+ years of experience working with GIS, cartography, remote sensing, and WebGIS. Familiar with programming, photogrammetry, 3D point cloud, machine learning, and visualization",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -294,12 +294,12 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "A2",
+      "fluency": "B1",
       "icon": "fa-solid fa-tag"
     },
     {
       "language": "English",
-      "fluency": "C2",
+      "fluency": "C1",
       "icon": "fa-solid fa-tag"
     },
     {
