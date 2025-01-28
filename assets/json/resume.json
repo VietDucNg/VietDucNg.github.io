@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Viet Nguyen",
-    "label": "GIS Analyst",
+    "label": "GIS and Remote Sensing Analyst",
     "image": "",
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "+49 3834 420 4544",
     "url": "https://vietducng.github.io/",
-    "summary": "A geospatial analyst with 3+ years of experience working with GIS, cartography, remote sensing, and WebGIS. Familiar with programming, photogrammetry, 3D point cloud, machine learning, and visualization",
+    "summary": "A GIS and Remote Sensing analyst with 3+ years of experience working with GIS, cartography, remote sensing, forestry and WebGIS. Familiar with programming, photogrammetry, 3D point cloud, machine learning, and visualization",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -33,21 +33,21 @@
     {
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
-      "position": "GIS analyst",
+      "position": "GIS and Remote Sensing analyst",
       "url": "https://geo.uni-greifswald.de/en/eo",
       "startDate": "2023-11-01",
       "endDate": "present",
       "summary": "",
-      "highlights": ["Analyzed spatial data with Python (GeoPandas, NumPy, GDAL, Rasterio, Multiprocessing, etc.), and R (sf, terra, lidR, rgdal, doParallel, etc.)", "Performed drone-based data acquisition (spectral, RGB, and LiDAR data)", "Processed drone-based data with Agisoft Metashape", "Developed WebGIS using HTML, CSS, JavaScript (Leaflet)"]
+      "highlights": ["Analyzed spatial data with Python (GeoPandas, NumPy, GDAL, Rasterio, Multiprocessing, etc.), and R (sf, terra, lidR, rgdal, doParallel, etc.)", "Performed drone-based data acquisition (spectral, RGB, and LiDAR data)", "Processed drone-based data with Agisoft Metashape, DJI Terra", "Developed WebGIS using HTML, CSS, JavaScript (Leaflet)"]
     },
     {
       "name": "Centre for Econics and Ecosystem Management, Eberswalde University for Sustainable Development",
       "location": "Eberswalde, Germany",
-      "position": "GIS technician",
+      "position": "GIS and Remote Sensing technician",
       "url": "https://www.centreforeconics.org/",
       "startDate": "2021-01-01",
       "endDate": "2023-08-31",
-      "summary": "Land-use land-cover classification, crop type mapping, LiDAR analysis (https://www.transect.de/), (https://virtualforests.eu/)",
+      "summary": "land-cover classification, crop type mapping, LiDAR analysis (https://www.transect.de/), (https://virtualforests.eu/)",
       "highlights": ["Implemented Random Forest algorithm using Python with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in central Asia", "Collected and digitized on-screen training and validation data for landcover classification using QGIS", "Interpreted multi-temporal remote sensing metrics (e.g., NDVI, NRPB, VV, VH)", "Produced maps, figures, and tables using R and QGIS", "Analyzed statistics with R (dplyr, ggplot2, etc.)"]
     },
     {
@@ -237,8 +237,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "QGIS",
-        "ArcGIS",
-        "Google Earth Engine"
+        "ArcGIS"
       ]
     },
     {
@@ -260,16 +259,16 @@
         "JavaScript (Leaflet)"
       ]
     },
-    {
-      "name": "Database",
-      "level": "Good",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "SQL",
-        "PostgreSQL",
-        "PostGIS"
-      ]
-    },
+    // {
+    //   "name": "Database",
+    //   "level": "Good",
+    //   "icon": "fa-solid fa-hashtag",
+    //   "keywords": [
+    //     "SQL",
+    //     "PostgreSQL",
+    //     "PostGIS"
+    //   ]
+    // },
     {
       "name": "Digital",
       "level": "Master",

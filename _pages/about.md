@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-**GIS analyst** with 3+ years of experience working with 💻 geospatial analysis, cartography, remote sensing, and WebGIS. Familiar with 🤖 programming, photogrammetry, 3D point cloud, machine learning, and visualization
+**GIS and Remote Sensing analyst** with 3+ years of experience working with 💻 geospatial analysis, cartography, remote sensing, forestry and WebGIS. Familiar with 🤖 programming, photogrammetry, 3D point cloud, machine learning, and visualization
 
-🌟 In my daily life, I’m passionate about automating GIS workflows through the power of **Python** and **QGIS**. I bring geospatial data to life by applying advanced GIS techniques and present my work through captivating maps and interactive **WebGIS** applications with **HTML**, **CSS**, and **Leaflet** (JavaScript).
+🌟 In my daily life, I’m passionate about automating geospatial analysis workflows through the power of **Python** and **QGIS**. I bring geospatial data to life by applying advanced geospatial techniques and present my work through captivating maps and interactive **WebGIS** applications with **HTML**, **CSS**, and **Leaflet** (JavaScript).
 
 Examples of my works:
 
-✅ Developed good-looking user-friendly WebGIS applications
+✅ Developed good-looking user-friendly Webmaps
 
 ✅ Implemented **random forest algorithm** with Landsat 8, Sentinel 1, and Sentinel 2 data in Google Earth Engine. Achieved 91% overall accuracy of crop type classification in Central Asia
 
