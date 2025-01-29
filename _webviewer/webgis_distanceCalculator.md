@@ -3,7 +3,7 @@ layout: page
 title: Geographic distance calculation
 description: 'WebGIS application to calculate the geographic distance between 2 points on the Earth surface'
 img: assets/img/webviewer_distanceCalculator.png
-importance: 2
+importance: 3
 # category:
 giscus_comments: true
 redirect: https://vietducng.github.io/webGIS_distanceCaculation/

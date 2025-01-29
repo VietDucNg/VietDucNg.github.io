@@ -2,7 +2,9 @@ github_users:
   - VietDucNg
 
 github_repos:
+  - VietDucNg/Metashape-photogrammetry
   - VietDucNg/Mollergrab-potree
+  - VietDucNg/webmap_BSRLC
   - VietDucNg/webGIS_distanceCaculation
   - VietDucNg/webmap_precipitation
   - VietDucNg/classify-forestTiles-by-height
@@ -14,7 +16,6 @@ github_repos:
   - VietDucNg/LiDAR-individual-tree-attribute
   - VietDucNg/burnSeverity_and_post-fireAssessment
   - VietDucNg/treeBiomass-from-AEs-BCEFs
-  - VietDucNg/Metashape-photogrammetry
   - VietDucNg/VietDucNg.github.io
   
   

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Real-time US precipitation and weather alert
-description: 'Real-time US precipitation and weather alert: data from National Weahter Service'
-img: assets/img/webviewer_webmap_precipitation.png
-importance: 4
+title: Annual Landcover Baltic Sea Region
+description: 'Webmap presenting annual land cover dataset for the Baltic Sea Region with crop types and peat bogs at 30 m from 2000 to 2022'
+img: assets/img/webviewer_bsrlc.png
+importance: 2
 # category:
 giscus_comments: true
-redirect: https://vietducng.github.io/webmap_precipitation/
+redirect: https://vietducng.github.io/webmap_BSRLC/
 ---
 
 Every project has a beautiful feature showcase page.
