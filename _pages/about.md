@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-**GIS and Remote Sensing analyst** with 3+ years of experience working with 💻 geospatial analysis, cartography, remote sensing, forestry and WebGIS. Familiar with 🤖 programming, photogrammetry, 3D point cloud, machine learning, and visualization
+**GIS and Remote Sensing analyst** with 4+ years of experience working with 💻 geospatial analysis, remote sensing, and WebGIS. Skills on 🤖 Python, R, QGIS, Metashape, PostgreSQL, HTML, CSS, JavaScript, Git, Machine learning.
 
 🌟 In my daily life, I’m passionate about automating geospatial analysis workflows through the power of **Python** and **QGIS**. I bring geospatial data to life by applying advanced geospatial techniques and present my work through captivating maps and interactive **WebGIS** applications with **HTML**, **CSS**, and **Leaflet** (JavaScript).
 
