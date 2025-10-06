@@ -1,14 +1,27 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - VietDucNg
 
-repo_description_lines_max: 2
+repo_description_lines_max:
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - VietDucNg/Metashape-photogrammetry
+  - VietDucNg/learnWeb_02_rockPaperScissor
+  - VietDucNg/learnWeb_03_etchASketch
+  - VietDucNg/learnWeb_01_landingPage
+  - VietDucNg/Mollergrab-potree
+  - VietDucNg/webmap_BSRLC
+  - VietDucNg/webGIS_distanceCaculation
+  - VietDucNg/webmap_precipitation
+  - VietDucNg/classify-forestTiles-by-height
+  - VietDucNg/DSM_from_pointCloud
+  - VietDucNg/treeBiomass-from-allometry
+  - VietDucNg/biomass-from-TCH
+  - VietDucNg/landCover_trajectory
+  - VietDucNg/NeukalenMap_RF_clasification
+  - VietDucNg/LiDAR-individual-tree-attribute
+  - VietDucNg/burnSeverity_and_post-fireAssessment
+  - VietDucNg/treeBiomass-from-AEs-BCEFs
+  - VietDucNg/VietDucNg.github.io
+  - VietDucNg/FMVvideo-from-DJIdrone
+  - VietDucNg/web-boilerplate
+
