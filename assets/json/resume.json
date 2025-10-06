@@ -33,7 +33,7 @@
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
       "position": "WebGIS Developer",
-      "url": "https://geo.uni-greifswald.de/en/eo",
+      "url": "https://geo.uni-greifswald.de/eo",
       "startDate": "2025-06-01",
       "endDate": "present",
       "summary": "",
@@ -43,7 +43,7 @@
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
       "position": "GIS and Remote Sensing analyst",
-      "url": "https://geo.uni-greifswald.de/en/eo",
+      "url": "https://geo.uni-greifswald.de/eo",
       "startDate": "2023-11-01",
       "endDate": "2025-05-31",
       "summary": "",
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "name": "WebGIS",
+      "name": "Web",
       "level": "Good",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
