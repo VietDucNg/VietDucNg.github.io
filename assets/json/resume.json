@@ -4,9 +4,9 @@
     "label": "WebGIS Developer",
     "image": "",
     "email": "duc.nguyen@uni-greifswald.de",
-    "phone": "+49 3834 420 4544",
-    "url": "https://vietducng.github.io/",
-    "summary": "a WebGIS Developer with 4+ years of experience working with Web development, GIS, and geospatial analysis. Skills on Python, R, SQL, HTML, CSS, JavaScript, GIS, Git, Linux, Docker, Machine learning.",
+    "phone": "",
+    "url": "",
+    "summary": "a WebGIS Developer with experience working with Web development, GIS, and geospatial analysis. Skills on Python, R, SQL, HTML, CSS, JavaScript, GIS, Git, Linux, Docker, Machine learning.",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -59,16 +59,16 @@
       // "summary": "land-cover classification, crop type mapping, LiDAR analysis (https://www.transect.de/), (https://virtualforests.eu/)",
       "highlights": ["Implemented Random Forest algorithm using Python with Landsat 8, Sentinel 1, and Sentinel 2 data. Achieved 91% overall accuracy of crop type classification in central Asia", "Collected and digitized on-screen ground truth data for landcover classification using QGIS, Google Earth", "Interpreted multi-temporal remote sensing metrics (e.g., NDVI, NRPB, VV, VH)", "Produced maps, figures, and tables using R and QGIS", "Analyzed statistics with R (dplyr, ggplot2, etc.)"]
     },
-    {
-      "name": "Naturwald Akademie",
-      "location": "Lübeck, Germany",
-      "position": "Student Assistant in Terrestrial laser scanning",
-      "url": "https://naturwald-akademie.org/en/about/",
-      "startDate": "2022-03-01",
-      "endDate": "2022-04-30",
-      // "summary": "https://www.pyrophob.de/",
-      "highlights": ["Planned and performed TLS campaigns in 45 forest plots in Brandenburg"]
-    },
+    // {
+    //   "name": "Naturwald Akademie",
+    //   "location": "Lübeck, Germany",
+    //   "position": "Student Assistant in Terrestrial laser scanning",
+    //   "url": "https://naturwald-akademie.org/en/about/",
+    //   "startDate": "2022-03-01",
+    //   "endDate": "2022-04-30",
+    //   // "summary": "https://www.pyrophob.de/",
+    //   "highlights": ["Planned and performed TLS campaigns in 45 forest plots in Brandenburg"]
+    // },
     {
       "name": "Thünen Institute",
       "location": "Eberswalde, Germany",
