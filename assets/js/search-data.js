@@ -118,6 +118,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web_3_calculator/";
+            },},{id: "projects-sign-up-page",
+          title: 'Sign-up page',
+          description: "A robust sign-up page with real-time client-side form validation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web_4_signUpPage/";
             },},{id: "projects-forest-in-3d-point-cloud",
           title: 'Forest in 3D point cloud',
           description: "3D LiDAR data of Mollergrab marteloscope forest in Eberswalde, Germany",
