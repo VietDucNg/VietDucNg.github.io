@@ -113,16 +113,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web_2_etch-a-sketch/";
+            },},{id: "projects-library-app",
+          title: 'Library app',
+          description: "A simple library app with form validation and localStorage",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web_3_library/";
             },},{id: "projects-calculator",
           title: 'Calculator',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_3_calculator/";
+              window.location.href = "/projects/web_4_calculator/";
             },},{id: "projects-sign-up-page",
           title: 'Sign-up page',
           description: "A robust sign-up page with real-time client-side form validation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_4_signUpPage/";
+              window.location.href = "/projects/web_5_signUpPage%20copy/";
             },},{id: "projects-forest-in-3d-point-cloud",
           title: 'Forest in 3D point cloud',
           description: "3D LiDAR data of Mollergrab marteloscope forest in Eberswalde, Germany",
