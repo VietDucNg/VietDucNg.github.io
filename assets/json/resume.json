@@ -6,7 +6,7 @@
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "",
     "url": "",
-    "summary": "a WebGIS Developer with experience working with Web development, GIS, and geospatial analysis. Skills on HTML, CSS, JavaScript, SQL, Python, R, QGIS, ArcGIS, Git, Linux, Docker.",
+    "summary": "a WebGIS Developer with experience working with Web development, GIS, and geospatial analysis. Skills on HTML, CSS, JavaScript, React, SQL, Python, R, QGIS, ArcGIS, Git, Linux, Docker.",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -90,7 +90,6 @@
       "startDate": "2020-10-01",
       "endDate": "2023-06-30",
       "score": "1.0"
-      // "courses": ["GPA: 1.0 (German grade)"]
     },
     {
       "institution": "Vietnam National University",
@@ -105,89 +104,96 @@
 
   "certificates": [
     {
+      "name": "Web development",
+      "date": "04/2026",
+      "issuer": "TechLabs",
+      "url": "https://www.techlabs.org/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "Web development foundations course",
-      "date": "2025",
+      "date": "11/2025",
       "issuer": "The Odin Project",
       "url": "https://www.theodinproject.com/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "An Introduction to Web GIS",
-      "date": "2024",
+      "date": "08/2024",
       "issuer": "Louisiana State University",
       "url": "https://geog4046.github.io/",
       "icon": "fa-solid fa-clipboard-check"
     },
-    {
-      "name": "Structure-from-Motion photogrammetry",
-      "date": "2024",
-      "issuer": "The University Centre in Svalbard",
-      "url": "https://unisvalbard.github.io/Geo-SfM/landing-page.html#",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "EnMAP data access and image preprocessing techniques",
-      "date": "2024",
-      "issuer": "EO College",
-      "url": "https://eo-college.org/courses/beyond-the-visible-enmap-data-access-and-image-preprocessing-techniques/",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Introduction to Hyperspectral Remote Sensing",
-      "date": "2024",
-      "issuer": "EO College",
-      "url": "https://eo-college.org/courses/beyond-the-visible/",
-      "icon": "fa-solid fa-clipboard-check"
-    },
+    // {
+    //   "name": "Structure-from-Motion photogrammetry",
+    //   "date": "03/2024",
+    //   "issuer": "The University Centre in Svalbard",
+    //   "url": "https://unisvalbard.github.io/Geo-SfM/landing-page.html#",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
+    // {
+    //   "name": "EnMAP data access and image preprocessing techniques",
+    //   "date": "01/2024",
+    //   "issuer": "EO College",
+    //   "url": "https://eo-college.org/courses/beyond-the-visible-enmap-data-access-and-image-preprocessing-techniques/",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
+    // {
+    //   "name": "Introduction to Hyperspectral Remote Sensing",
+    //   "date": "01/2024",
+    //   "issuer": "EO College",
+    //   "url": "https://eo-college.org/courses/beyond-the-visible/",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
     {
       "name": "Automating GIS Processes",
-      "date": "2023",
+      "date": "12/2023",
       "issuer": "University of Helsinki",
       "url": "https://autogis-site.readthedocs.io/en/latest/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Geo-Python",
-      "date": "2023",
+      "date": "10/2023",
       "issuer": "University of Helsinki",
       "url": "https://geo-python-site.readthedocs.io/en/latest/",
       "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Elements of AI",
-      "date": "2023",
-      "issuer": "University of Helsinki",
-      "url": "https://www.elementsofai.com/",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Getting started with Python",
-      "date": "2021",
-      "issuer": "University of Michigan",
-      "url": "https://www.coursera.org/learn/python",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Using Python to Access Web Data",
-      "date": "2021",
-      "issuer": "University of Michigan",
-      "url": "https://www.coursera.org/learn/python-network-data",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Python Data Structures",
-      "date": "2021",
-      "issuer": "University of Michigan",
-      "url": "https://www.coursera.org/learn/python-data",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Introduction to R",
-      "date": "2021",
-      "issuer": "DataCamp",
-      "url": "https://www.datacamp.com/courses/free-introduction-to-r",
-      "icon": "fa-solid fa-clipboard-check"
     }
+    // {
+    //   "name": "Elements of AI",
+    //   "date": "07/2023",
+    //   "issuer": "University of Helsinki",
+    //   "url": "https://www.elementsofai.com/",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
+    // {
+    //   "name": "Getting started with Python",
+    //   "date": "09/2021",
+    //   "issuer": "University of Michigan",
+    //   "url": "https://www.coursera.org/learn/python",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
+    // {
+    //   "name": "Using Python to Access Web Data",
+    //   "date": "10/2021",
+    //   "issuer": "University of Michigan",
+    //   "url": "https://www.coursera.org/learn/python-network-data",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
+    // {
+    //   "name": "Python Data Structures",
+    //   "date": "09/2021",
+    //   "issuer": "University of Michigan",
+    //   "url": "https://www.coursera.org/learn/python-data",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // },
+    // {
+    //   "name": "Introduction to R",
+    //   "date": "12/2021",
+    //   "issuer": "DataCamp",
+    //   "url": "https://www.datacamp.com/courses/free-introduction-to-r",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // }
   ],
 
   "skills": [
@@ -199,7 +205,7 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "WordPress"
+        "React"
       ]
     },
     {
@@ -236,8 +242,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "QGIS",
-        "ArcGIS Pro",
-        "ArcGIS Online"
+        "ArcGIS"
       ]
     },
     {
