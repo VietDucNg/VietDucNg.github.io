@@ -5,13 +5,17 @@ repo_description_lines_max:
 
 github_repos:
   - VietDucNg/Metashape-photogrammetry
-  - VietDucNg/learnWeb_03_etchASketch
-  - VietDucNg/learnWeb_02_rockPaperScissor
+  - VietDucNg/learnWeb_08_cvApplication
   - VietDucNg/learnWeb_07_restaurantWeb
   - VietDucNg/learnWeb_06_library
-  - VietDucNg/learnWeb_04_calculator
   - VietDucNg/learnWeb_05_signUpPage
+  - VietDucNg/learnWeb_03_etchASketch
+  - VietDucNg/learnWeb_02_rockPaperScissor
+  - VietDucNg/learnWeb_04_calculator
   - VietDucNg/learnWeb_01_landingPage
+  - VietDucNg/react-boilerplate
+  - VietDucNg/web-boilerplate
+  - VietDucNg/VietDucNg.github.io
   - VietDucNg/Mollergrab-potree
   - VietDucNg/webmap_BSRLC
   - VietDucNg/webGIS_distanceCaculation
@@ -25,7 +29,5 @@ github_repos:
   - VietDucNg/LiDAR-individual-tree-attribute
   - VietDucNg/burnSeverity_and_post-fireAssessment
   - VietDucNg/treeBiomass-from-AEs-BCEFs
-  - VietDucNg/VietDucNg.github.io
   - VietDucNg/FMVvideo-from-DJIdrone
-  - VietDucNg/web-boilerplate
 
