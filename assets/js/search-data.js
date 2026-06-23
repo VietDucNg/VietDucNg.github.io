@@ -87,36 +87,31 @@ ninja.data = [{
           description: "Tree- and Stand- Level Biomass Estimation for Scots Pine in Poland with Allometric Equations, Biomass Conversion and Expansion Factors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gis_9_treeBiomass-from-allometry-R/";
-            },},{id: "projects-rock-paper-scissors-game",
-          title: 'Rock-paper-scissors game',
-          description: "",
+            },},{id: "projects-cv-builder",
+          title: 'CV Builder',
+          description: "a responsive-designed React application that allows users to create, edit, reorder, and preview a professional CV in real time.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_1_rockPaperScissor/";
-            },},{id: "projects-etch-a-sketch-game",
-          title: 'Etch-a-Sketch game',
-          description: "",
+              window.location.href = "/projects/web_1_cvBuilder/";
+            },},{id: "projects-library-app",
+          title: 'Library app',
+          description: "A simple library app with form validation and localStorage",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_2_etch-a-sketch/";
+              window.location.href = "/projects/web_2_library/";
             },},{id: "projects-restaurant-website",
           title: 'Restaurant website',
           description: "A responsive-designed restaurant website with dynamic page loading",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web_3_restaurant/";
-            },},{id: "projects-library-app",
-          title: 'Library app',
-          description: "A simple library app with form validation and localStorage",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/web_4_library/";
-            },},{id: "projects-calculator",
-          title: 'Calculator',
+            },},{id: "projects-rock-paper-scissors-game",
+          title: 'Rock-paper-scissors game',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_5_calculator/";
-            },},{id: "projects-sign-up-page",
-          title: 'Sign-up page',
-          description: "A robust sign-up page with real-time client-side form validation",
+              window.location.href = "/projects/web_4_rockPaperScissor/";
+            },},{id: "projects-etch-a-sketch-game",
+          title: 'Etch-a-Sketch game',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_6_signUpPage/";
+              window.location.href = "/projects/web_5_etch-a-sketch/";
             },},{id: "projects-forest-in-3d-point-cloud",
           title: 'Forest in 3D point cloud',
           description: "3D LiDAR data of Mollergrab marteloscope forest in Eberswalde, Germany",
