@@ -102,36 +102,16 @@ ninja.data = [{
           description: "A responsive-designed restaurant website with dynamic page loading",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web_3_restaurant/";
-            },},{id: "projects-rock-paper-scissors-game",
-          title: 'Rock-paper-scissors game',
-          description: "",
+            },},{id: "projects-annual-landcover-baltic-sea-region",
+          title: 'Annual Landcover Baltic Sea Region',
+          description: "An interactive webmap for land cover visualization, and temporal comparison using OpenLayers + React",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_4_rockPaperScissor/";
-            },},{id: "projects-etch-a-sketch-game",
-          title: 'Etch-a-Sketch game',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/web_5_etch-a-sketch/";
+              window.location.href = "/projects/webgis_1_bsrlc/";
             },},{id: "projects-forest-in-3d-point-cloud",
           title: 'Forest in 3D point cloud',
           description: "3D LiDAR data of Mollergrab marteloscope forest in Eberswalde, Germany",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/webgis_1_treeAttribute_from_pc/";
-            },},{id: "projects-annual-landcover-baltic-sea-region",
-          title: 'Annual Landcover Baltic Sea Region',
-          description: "Webmap presenting annual land cover dataset for the Baltic Sea Region with crop types and peat bogs at 30 m from 2000 to 2022",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/webgis_2_bsrlc/";
-            },},{id: "projects-geographic-distance-calculation",
-          title: 'Geographic distance calculation',
-          description: "WebGIS application to calculate the geographic distance between 2 points on the Earth surface",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/webgis_3_distanceCalculator/";
-            },},{id: "projects-real-time-us-precipitation-and-weather-alert",
-          title: 'Real-time US precipitation and weather alert',
-          description: "Real-time US precipitation and weather alert: data from National Weahter Service",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/webgis_4_precipitation/";
+              window.location.href = "/projects/webgis_2_treeAttribute_from_pc/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
