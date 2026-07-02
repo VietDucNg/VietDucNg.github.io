@@ -6,4 +6,5 @@ img: assets/img/webgis_precipitation.png
 importance: 4
 category: WebGIS
 redirect: https://vietducng.github.io/webmap_precipitation/
+published: false
 ---
