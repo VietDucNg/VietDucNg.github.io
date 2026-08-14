@@ -28,12 +28,9 @@ latest_posts:
 ---
 
 <br/>
-👨‍💻 **WebGIS Developer** with experience working with 💻 Web development, GIS, and geospatial analysis. Skills on 🤖 **HTML**, **CSS**, **JavaScript**, **React**, **SQL**, **PostgreSQL**, **Python**, **R**, **QGIS**, **ArcGIS**, **Agisoft Metashape**, **Git**, **Linux**, **Docker**.
+👨‍💻 **GIS / WebGIS Developer** with experience working with 💻 Web development, GIS, and geospatial analysis. Skills on 🤖 **React**, **HTML**, **CSS**, **JavaScript**, **SQL**, **PostgreSQL**, **Python**, **R**, **QGIS**, **ArcGIS**, **Agisoft Metashape**, **Git**, **GitHub**, **Linux**, **Docker**.
 
-<!-- 
-🌟 In my daily life, I’m passionate about automating geospatial analysis workflows through the power of Python and GIS. ✅ I bring geospatial data to life by applying advanced geospatial techniques and present my work through captivating maps and interactive WebGIS applications. -->
-
-🌟 In my daily life, I'm passionate on building interactive WebGIS applications that bring geospatial data to the web. ✅ I work with modern web technologies to integrate maps, APIs, and spatial data into intuitive user interfaces. 
+🌟 In my daily life, I’m passionate about automating geospatial analysis workflows through the power of Python and GIS. ✅ I bring geospatial data to life by applying advanced geospatial techniques and building interactive WebGIS applications with modern web technologies.
 
 🙋 Highly motivated, disciplined, effective in independent work or collaboration, and eager to get more experience and skillset.
 
