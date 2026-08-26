@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Viet Nguyen",
-    "label": "WebGIS Developer",
+    "label": "GIS and Remote Sensing Developer",
     "image": "",
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "",
     "url": "",
-    "summary": "a GIS / WebGIS Developer with experience working with Web development, GIS, and geospatial analysis. Skills on React, HTML, CSS, JavaScript, SQL, PostgreSQL, Python, R, QGIS, ArcGIS, Agisoft Metashape, Git, GitHub, Linux, Docker.",
+    "summary": "a GIS and Remote Sensing Developer with experience working in GIS, Remote Sensing, geospatial analysis, and web development. Skills on Python, R, QGIS, ArcGIS, FORCE, Agisoft Metashape, React, HTML, CSS, JavaScript, SQL, PostgreSQL, Git, GitHub, Linux, Docker.",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -32,13 +32,17 @@
     {
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
-      "position": "WebGIS Developer",
+      "position": "GIS Developer",
       "url": "https://geo.uni-greifswald.de/eo",
       "startDate": "2025-06-01",
       "endDate": "present",
       "summary": "",
       "highlights": [
-         "Developing a WebGIS for tourism (historical maps, photographs documents): https://tegrys.geo.uni-greifswald.de/ (in development)","Preprocessed scanned maps with python (reprojection, format conversion, mosaic with rioxarray, GDAL) and QGIS (georeference)","Created basemap from OpenStreetMap vector data with scale-dependent styling in QGIS, exported as XYZ tile pyramids and host the resulting basemaps as web services", "Managed geospatial data in ArcGIS Online and integrated web services into the map frontend via ArcGIS APIs;","Built frontend with WordPress, developed on Linux with Git and Docker"
+         "Developing a WebGIS for tourism: http://in-terris-gryphi.de/ (in development)",
+         "Preprocessed scanned maps with python (reprojection, format conversion, mosaic with rioxarray, GDAL) and QGIS (georeference)",
+         "Created basemap from OpenStreetMap vector data with scale-dependent styling in QGIS, exported as XYZ tile pyramids and host the resulting basemaps as web services", 
+         "Managed geospatial data in ArcGIS Online and integrated web services into the map frontend via ArcGIS APIs",
+         "Built frontend with WordPress, developed on Linux with Git and Docker"
 
       ]
     },
@@ -51,8 +55,9 @@
       "endDate": "2025-05-31",
       "summary": "",
       "highlights": [
-        "Maintained large-scale satellite datacube using FORCE",
-        "Analyzed spatial vector, raster data with Python (GeoPandas, Rioxarray, NumPy, GDAL) and LiDAR data with R (sf, terra, lidR, rgdal)",
+        "Implemented Random Forest algorithm using Python with Landsat 8, Sentinel-1, and Sentinel-2 data, using multi-temporal metrics (NDVI, NRPB, VV, VH, etc.). Achieved 91% overall accuracy for crop type classification in Central Asia", 
+        "Maintained a large-scale satellite datacube using FORCE",
+        "Analyzed spatial vector and raster data with Python (GeoPandas, Rioxarray, NumPy, GDAL) and LiDAR data with R (sf, terra, lidR, rgdal)",
         "Performed drone-based data acquisition (spectral, RGB, LiDAR data)",
         "Processed drone data with Agisoft Metashape, DJI Terra"
       ]
@@ -65,8 +70,7 @@
       "startDate": "2021-01-01",
       "endDate": "2023-08-31",
       "highlights": [
-         "Implemented Random Forest algorithm using Python with Landsat 8, Sentinel 1, and Sentinel 2 data, using multi-temporal metrics (NDVI, NRPB, VV, VH, etc.). Achieved 91% overall accuracy for crop type classification in Central Asia (publication)", 
-         "Collected and digitized on-screen ground truth data for land cover classification using QGIS, Google Earth",
+         "Collected and digitized on-screen ground truth data for land cover classification using QGIS and Google Earth",
          "Produced maps, figures and statistics with R (dplyr, ggplot2) and QGIS"
         ]
     },
@@ -207,18 +211,18 @@
       "level": "Good",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "HTML",
-        "CSS",
+        "React",
         "JavaScript",
-        "React"
+        "HTML",
+        "CSS"
       ]
     },
     {
       "name": "WebGIS",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Leaflet",
         "OpenLayers",
+        "Leaflet",
         "ArcGIS API"
       ]
     },
