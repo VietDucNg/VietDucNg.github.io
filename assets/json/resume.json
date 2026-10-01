@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Viet Nguyen",
-    "label": "GIS and Remote Sensing Developer",
+    "label": "Remote Sensing & GIS Engineer",
     "image": "",
     "email": "duc.nguyen@uni-greifswald.de",
     "phone": "",
     "url": "",
-    "summary": "a GIS and Remote Sensing Developer with experience working in GIS, Remote Sensing, geospatial analysis, and web development. Skills on Python, R, QGIS, ArcGIS, FORCE, Agisoft Metashape, React, HTML, CSS, JavaScript, SQL, PostgreSQL, Git, GitHub, Linux, Docker.",
+    "summary": "a Remote Sensing & GIS Engineer with experience working in Remote Sensing, GIS, geospatial analysis, and web development. Skills on Python, R, QGIS, ArcGIS, FORCE, Agisoft Metashape, React, HTML, CSS, JavaScript, SQL, Git, GitHub, Linux, Docker, and Machine Learning.",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -32,7 +32,7 @@
     {
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
-      "position": "GIS Developer",
+      "position": "Geospatial Data Engineer",
       "url": "https://geo.uni-greifswald.de/eo",
       "startDate": "2025-06-01",
       "endDate": "present",
@@ -285,7 +285,7 @@
     },
     {
       "language": "English",
-      "fluency": "C1",
+      "fluency": "C2",
       "icon": "fa-solid fa-tag"
     },
     {
