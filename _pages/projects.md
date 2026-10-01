@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my hopefully-cool projects 😁
 nav: true
 nav_order: 3
-display_categories: [Web development, WebGIS, GIS and Remote Sensing]
+display_categories: [WebGIS, Web development, Remote Sensing]
 horizontal: false
 ---
 

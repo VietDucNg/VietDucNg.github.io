@@ -5,5 +5,5 @@ description: Metashape step-by-step tutorial for creating point clouds, orthomos
 img: assets/img/proj_metashape_overview.jpg
 redirect: https://github.com/VietDucNg/Metashape-photogrammetry
 importance: 1
-category: GIS and Remote Sensing
+category: Remote Sensing
 ---
