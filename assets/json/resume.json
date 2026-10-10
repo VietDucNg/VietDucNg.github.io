@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Viet Nguyen",
-    "label": "Remote Sensing & GIS Engineer",
+    "label": "Remote Sensing & GIS Specialist",
     "image": "",
-    "email": "duc.nguyen@uni-greifswald.de",
+    "email": "vietducnguyen.fit@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "a Remote Sensing & GIS Engineer with experience working in Remote Sensing, GIS, geospatial analysis, and web development. Skills on Python, R, QGIS, ArcGIS, FORCE, Agisoft Metashape, React, HTML, CSS, JavaScript, SQL, Git, GitHub, Linux, Docker, and Machine Learning.",
+    "summary": "a Remote Sensing & GIS Specialist with nearly 6 years’ experience building reproducible Python and R workflows for satellite, LiDAR, and UAV data. Co-designed a published crop-type classification (Random Forest on multi-temporal Sentinel-1/2 metrics, up to 96% overall accuracy). Derived single-tree attributes from over 4,500 km<sup>2</sup> of airborne LiDAR. Built web maps with React, Material UI, and ArcGIS Experience Builder. Performed drone data acquisition and processing with Agisoft Metashape. M.Sc. in Forest Information Technology (1.0 grade, with distinction)",
     "location": {
       "address": "",
       "postalCode": "17489",
@@ -32,59 +32,57 @@
     {
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
-      "position": "Geospatial Data Engineer",
+      "position": "WebGIS Developer",
       "url": "https://geo.uni-greifswald.de/eo",
       "startDate": "2025-06-01",
       "endDate": "present",
       "summary": "",
       "highlights": [
-         "Developing a WebGIS for tourism: http://in-terris-gryphi.de/ (in development)",
-         "Preprocessed scanned maps with python (reprojection, format conversion, mosaic with rioxarray, GDAL) and QGIS (georeference)",
-         "Created basemap from OpenStreetMap vector data with scale-dependent styling in QGIS, exported as XYZ tile pyramids and host the resulting basemaps as web services", 
-         "Managed geospatial data in ArcGIS Online and integrated web services into the map frontend via ArcGIS APIs",
-         "Built frontend with WordPress, developed on Linux with Git and Docker"
-
+         "Developing the WebGIS platform of the German-Polish cultural heritage project In terris Gryphi (<a href='http://in-terris-gryphi.de/'>in-terris-gryphi.de</a>): multilingual (DE/PL/EN) WordPress site with Leaflet map",
+         "Processed and published 4 historical scanned map series (1692-1909, about 420 GB of scans) as web services using ArcGIS Experience Builder on ArcGIS Enterprise. Automated Python pipelines for reprojection, mosaicking, format conversion, footprints, and metadata linking (rioxarray, rasterio, GeoPandas)",
+         "Built a Europe-wide OpenStreetMap basemap (styled in QGIS, converted to ArcGIS Pro, published to ArcGIS Online as a tile layer) and extracted 5,737 heritage objects (castles, churches, manors, viewpoints) for Pomerania with the OSMnx Python package"
       ]
     },
     {
       "name": "Institute of Geography and Geology, University of Greifswald",
       "location": "Greifswald, Germany",
-      "position": "GIS and Remote Sensing analyst",
+      "position": "Remote Sensing & GIS analyst",
       "url": "https://geo.uni-greifswald.de/eo",
       "startDate": "2023-11-01",
       "endDate": "2025-05-31",
       "summary": "",
       "highlights": [
-        "Implemented Random Forest algorithm using Python with Landsat 8, Sentinel-1, and Sentinel-2 data, using multi-temporal metrics (NDVI, NRPB, VV, VH, etc.). Achieved 91% overall accuracy for crop type classification in Central Asia", 
-        "Maintained a large-scale satellite datacube using FORCE",
-        "Analyzed spatial vector and raster data with Python (GeoPandas, Rioxarray, NumPy, GDAL) and LiDAR data with R (sf, terra, lidR, rgdal)",
-        "Performed drone-based data acquisition (spectral, RGB, LiDAR data)",
-        "Processed drone data with Agisoft Metashape, DJI Terra"
+        "Co-designed a Sentinel-1/2 data fusion framework for 2022 crop type classification in smallholder agriculture across 3 districts in Kazakhstan, Tajikistan, and Pakistan (770 surveyed fields, 4-6 crop classes per site, incl. maize, wheat, cotton, fodder, rice, sorghum, sugarcane, fallow). Random Forest models on monthly to quarterly time-series statistics of Sentinel-2 bands, vegetation indices (NDVI, NDWI, EVI, SAVI), and Sentinel-1 VV/VH backscatter (120-960 features) with forward feature selection. Achieved 84.7-96.3% overall accuracy in 1000-run repeated 5-fold cross-validation (<a href='https://doi.org/10.1016/j.rsase.2026.102007'>publication</a>)",
+        "Classified wetland vegetation species for 2020-2022 from UAV multispectral orthomosaics, DEMs, and NDVI with Random Forest (7 classes incl. Typha, Phragmites, Phalaris, Juncus; 92-94% overall accuracy), and classified airborne HyPlant hyperspectral imagery (483 bands) into 12 land cover classes for 3 sites (scikit-learn, rioxarray)",
+        "Quantified statistically and visualized land cover on about 61,000 km<sup>2</sup> of peatland in 6 Baltic Sea countries from 23 annual BSRLC+ maps (2000-2022), e.g. peat extraction area falling from 741 to 602 km<sup>2</sup> (rioxarray, dask-geopandas)",
+        "Conducted regular UAV survey missions with the DJI Matrice 300 RTK, P4 Multispectral, and Mini 2, carrying MicaSense Altum-PT multispectral/thermal, Zenmuse P1 RGB, and Zenmuse L1 LiDAR sensors. Flew monthly monitoring at 10-120 m altitude with RTK/SAPOS positioning and surveyed GCPs with an RTK GNSS rover and QField",
+        "Processed drone data in Agisoft Metashape, DJI Terra, and R into orthomosaics and elevation models at 4 mm to 6 cm ground resolution (<a href='https://github.com/VietDucNg/Metashape-photogrammetry'>code</a>). Derived LiDAR products from Zenmuse L1 point clouds with lidR (quasigeoid height correction, noise filtering, CSF ground classification, 0.3 m DSM/DTM)",
+        "Built an EnMAP hyperspectral library using automated Python workflow (GDAL, rasterio, GeoPandas). 63,124 labelled spectra (224 bands) from 10 scenes across Germany for 10 WorldCover land cover classes, with cloud masking, pure-pixel sampling and class balancing"
       ]
     },
     {
       "name": "Centre for Econics and Ecosystem Management, Eberswalde University",
       "location": "Eberswalde, Germany",
-      "position": "GIS and Remote Sensing technician",
+      "position": "Remote Sensing & GIS technician",
       "url": "https://www.centreforeconics.org/",
       "startDate": "2021-01-01",
       "endDate": "2023-08-31",
       "highlights": [
-         "Collected and digitized on-screen ground truth data for land cover classification using QGIS and Google Earth",
-         "Produced maps, figures and statistics with R (dplyr, ggplot2) and QGIS"
+         "Prepared on-screen ground truth data for crop type classification across Kazakhstan, Tajikistan, and Pakistan: digitized 1,690 field boundaries from Sentinel-2 and Google Earth imagery. Labelled historic crop types for 2,964 field-years (2019-2021) plus 781 stratified land cover reference points from Sentinel-2 NDVI and Sentinel-1 VV/VH time- series profiles (QGIS, GEE Timeseries Explorer",
+         "Produced an <a href='https://doi.org/10.5194/egusphere-egu23-3687'>EGU 2023 poster</a> (QGIS), the overview map (<a href='https://doi.org/10.1016/j.rsase.2026.102007'>publication</a>), and plotted monthly NDVI and Sentinel-1 backscatter profiles per crop type in R (dplyr, ggplot2). Compared 4 global cropland products (GLC_FCS30, GLC10, MODIS, ESA) and reviewed about 70 crop mapping studies"
         ]
     },
     {
       "name": "Thünen Institute",
       "location": "Eberswalde, Germany",
-      "position": "Intern",
+      "position": "Remote Sensing Intern",
       "url": "https://www.thuenen.de/en/institutes/forest-ecosystems",
       "startDate": "2021-10-01",
       "endDate": "2023-05-31",
       "summary": "Large-scale forest inventory based on ALS point cloud",
       "highlights": [
-        " Developed methods to derive individual tree attributes from ALS point clouds using R (lidR, rLiDAR, TreeLS). Achieved 78% tree detection rate in 4584 km2 of heterogeneous forest in North Rhine-Westphalia state, Germany",
-        "Evaluated statistically models for tree attributes using R, attaining 0.86 R2 for tree height estimates and 0.74 R2 for DBH estimates"
+        "Developed an automated R workflow (lidR, crownsegmentr) to derive individual tree attributes (coordinates, height, crown area, crown base height, DBH) from airborne LiDAR and applied it to over 4,500 km<sup>2</sup> of heterogeneous forest in North Rhine-Westphalia, Germany",
+        "Benchmarked raster-based (itcSegment) and point-cloud-based (AMS3D) tree segmentation with 3 developed allometric DBH equations against 4,072 measured trees on 520 inventory plots: Achieved 78% tree detection rate, estimated tree height with R<sup>2</sup> = 0.86 and DBH with R<sup>2</sup> up to 0.74"
       ]
     }
   ],
@@ -98,7 +96,11 @@
       "studyType": "M.Sc",
       "startDate": "2020-10-01",
       "endDate": "2023-06-30",
-      "score": "1.0"
+      "score": "1.0",
+      "courses": [
+        "1.0 grade (highest German grade, with distinction)",
+        "Awarded DAAD STIBET scholarship for outstanding students"
+      ]
     },
     {
       "institution": "Vietnam National University",
