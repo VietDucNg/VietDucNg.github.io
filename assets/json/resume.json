@@ -137,6 +137,21 @@
     }
   ],
 
+  "projects": [
+    {
+      "name": "Annual land cover visualization, Baltic Sea region (React)",
+      "type": "WebGIS",
+      "url": "https://bsrlc-webmap.vietducnguyen-fit.workers.dev/",
+      "summary": "<a href='https://github.com/VietDucNg/webmap_BSRLC'>GitHub</a> | <a href='https://bsrlc-webmap.vietducnguyen-fit.workers.dev/'>Live</a>"
+    },
+    {
+      "name": "Drone photogrammetry workflow in Metashape (Python)",
+      "type": "Photogrammetry",
+      "url": "https://github.com/VietDucNg/Metashape-photogrammetry",
+      "summary": "<a href='https://github.com/VietDucNg/Metashape-photogrammetry'>GitHub</a>"
+    }
+  ],
+
   "certificates": [
     {
       "name": "Web development",
@@ -263,16 +278,6 @@
         "React", "JavaScript", "HTML5", "CSS3", "Material UI", "OpenLayers", "Leaflet", "Webpack", "Vite"
       ]
     },
-    // {
-    //   "name": "Database",
-    //   "level": "Good",
-    //   "icon": "fa-solid fa-hashtag",
-    //   "keywords": [
-    //     "SQL",
-    //     "PostgreSQL",
-    //     "PostGIS"
-    //   ]
-    // },
     {
       "name": "Dev tools",
       "level": "Master",
