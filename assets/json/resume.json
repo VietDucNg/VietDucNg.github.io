@@ -149,6 +149,18 @@
       "type": "Photogrammetry",
       "url": "https://github.com/VietDucNg/Metashape-photogrammetry",
       "summary": "<a href='https://github.com/VietDucNg/Metashape-photogrammetry'>GitHub</a>"
+    },
+    {
+      "name": "CV Builder (React)",
+      "type": "Website",
+      "url": "https://cv-builder.vietducnguyen-fit.workers.dev/",
+      "summary": "<a href='https://github.com/VietDucNg/learnWeb_08_cvApplication'>GitHub</a> | <a href='https://cv-builder.vietducnguyen-fit.workers.dev/'>Live</a>"
+    },
+    {
+      "name": "Library application",
+      "type": "Website",
+      "url": "https://vietducng.github.io/learnWeb_06_library/",
+      "summary": "<a href='https://github.com/VietDucNg/learnWeb_06_library'>GitHub</a> | <a href='https://vietducng.github.io/learnWeb_06_library/'>Live</a>"
     }
   ],
 
