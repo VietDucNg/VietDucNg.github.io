@@ -113,6 +113,30 @@
     }
   ],
 
+  "publications": [
+    {
+      "name": "Crop type classification in smallholder agriculture of Central and South Asia using Sentinel-1/2 data fusion",
+      "publisher": "Remote Sensing Applications: Society and Environment",
+      "releaseDate": "2026-04",
+      "url": "https://doi.org/10.1016/j.rsase.2026.102007",
+      "summary": "C. Raab, <b>V. D. Nguyen</b>, B. Barrett, A. Zakirova, M. Zuberi, H. Alff, M. Spies"
+    },
+    {
+      "name": "An annual land cover dataset for the Baltic Sea Region with crop types and peat bogs at 30 m from 2000 to 2022",
+      "publisher": "Scientific Data",
+      "releaseDate": "2024-11",
+      "url": "https://doi.org/10.1038/s41597-024-04062-w",
+      "summary": "V.-D. Pham, F. de Waard, F. Thiel, B. Bobertz, C. Hellmann, <b>D.-V. Nguyen</b>, et al."
+    },
+    {
+      "name": "Crop type mapping in Central and South Asia using Sentinel-1 and Sentinel-2 remote sensing data (poster)",
+      "publisher": "EGU General Assembly 2023, Vienna",
+      "releaseDate": "2023-04",
+      "url": "https://doi.org/10.5194/egusphere-egu23-3687",
+      "summary": "C. Raab, <b>V. D. Nguyen</b>"
+    }
+  ],
+
   "certificates": [
     {
       "name": "Web development",
